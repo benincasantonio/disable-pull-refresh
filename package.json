@@ -1,0 +1,26 @@
+{
+  "name": "disable-pull-refresh",
+  "version": "1.0.3",
+  "description": "disable the pull to refresh behaviour.",
+  "main": "index.js",
+  "author": "Antonio Benincasa <benincasaantonio98@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/benincasantonio/disable-pull-refresh",
+  "homepage": "https://github.com/benincasantonio/disable-pull-refresh#readme",
+  "bugs": {
+    "url": "https://github.com/benincasantonio/disable-pull-refresh/issues"
+  },
+  "keywords": [
+    "disable",
+    "pull",
+    "refresh",
+    "pull refresh",
+    "browser",
+    "chrome",
+    "edge",
+    "mobile",
+    "scroll",
+    "overscroll",
+    "contain"
+  ]
+}
